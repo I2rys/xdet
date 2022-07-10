@@ -9,7 +9,7 @@ git clone https://github.com/I2rys/xdet
 
 NpmJS:
 ```
-npm i string-similarity fs
+npm i xdet
 ```
 
 ## Usage
