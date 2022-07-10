@@ -1,0 +1,35 @@
+{
+    "name": "xdet",
+    "version": "1.0.0",
+    "scripts": {
+      "test": "jest"
+    },
+    "jest": {
+      "collectCoverage": true
+    },
+    "description": "Detect SQLi, CRLF, path traversal, xss & many more in a URL.",
+    "main": "index.js",
+    "directories": {
+      "test": "test"
+    },
+    "repository": {
+      "type": "git",
+      "url": "git+https://github.com/I2rys/xdet.git"
+    },
+    "keywords": [
+      "detect",
+      "detection",
+      "detect-sqli",
+      "sqli",
+      "xss",
+      "path-traversal",
+      "xpath"
+    ],
+    "author": "I2rys",
+    "license": "MIT",
+    "bugs": {
+      "url": "https://github.com/I2rys/xdet/issues"
+    },
+    "homepage": "https://github.com/I2rys/xdet#readme"
+  }
+  
